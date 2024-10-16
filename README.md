@@ -11,7 +11,9 @@
       "Steam": "Minecrafter8001"
     },
     "Pronouns": "He/Him",
-    "neurodivergency": "Ausism"
+    "neurodivergency": "Ausism",
+    "languages":["JavaScript", "Python", "LUA", "English"],
+    "Phobias": ["Java", "C", "C#", "C++", "Assembly"]
   }
 }
 ```
