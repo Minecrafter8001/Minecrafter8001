@@ -10,7 +10,8 @@
       "Discord": "Minecrafter8001",
       "Steam": "Minecrafter8001"
     },
-    "Pronouns": "He/Him"
+    "Pronouns": "He/Him",
+    "neurodivergency": "Ausism"
   }
 }
 ```
